@@ -2,7 +2,7 @@
 
 Clojure é uma linguagem de programação compilada e
 dinâmica com propósito geral, podendo ser usada em diversas áreas 
-como: back-end, front-end, ciência de dados, e etc.
+como: back-end, front-end, ciência de dados, etc.
 
 Por ser um dialeto de Lisp, é provável que você ache estranho de ínicio a sintaxe cheia de parêntesis um dentro do
 outro. Clojure busca tratar nosso código como um amontoado de dados, e também possui um sistema de macros, onde criamos
