@@ -7,5 +7,5 @@ linguagem portuguesa.
 
 ### Introdução
 
-[O que é Clojure?](/conteudos/O_que_eh_clojure.md)
+[O que é Clojure?](/conteudos/introducao/O_que_eh_clojure.md)
 
