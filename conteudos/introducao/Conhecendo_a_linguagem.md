@@ -1,4 +1,4 @@
-# Conhecendo a sintaxe
+# Conhecendo a linguagem
 
 Caso a instalação do Clojure tenha sido um sucesso, ao digitar `clj` em seu terminal você verá um REPL interativo:
 
@@ -128,7 +128,7 @@ user=> (+ 1 2)
 O Clojure entende que tudo o que estiver dento de parêntesis é uma invocação de função.
 
 Por isso na estrutura de lista nós utilizamos o apóstrofo `'`, ele é um símbolo de 'quoting', serve para que o código 
-não seja evaluado, .
+não seja evaluado.
 
 ```
 user=> '(+ 1 2)
