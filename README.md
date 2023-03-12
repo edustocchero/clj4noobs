@@ -10,3 +10,5 @@ linguagem portuguesa.
 [O que é Clojure?](/conteudos/introducao/O_que_eh_clojure.md)
 
 [Preparando o ambiente](/conteudos/introducao/Preparando_o_ambiente.md)
+
+[Conhecendo a linguagem](/conteudos/introducao/Conhecendo-a-linguagem.md)
