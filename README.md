@@ -12,3 +12,5 @@ linguagem portuguesa.
 [Preparando o ambiente](/conteudos/introducao/Preparando_o_ambiente.md)
 
 [Conhecendo a linguagem](/conteudos/introducao/Conhecendo_a_linguagem.md)
+
+[Explorando o clojure.core](/conteudos/introducao/Explorando_o_clojure_core.md)
