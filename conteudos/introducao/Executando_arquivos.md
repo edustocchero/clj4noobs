@@ -11,6 +11,10 @@ O Clojure permite a execução de arquivos como scripts. Para isso, podemos exec
 
 Você pode criar um arquivo com o nome de sua preferência, o arquivo deve conter a extensão `.clj`.
 
+O padrão é que você crie arquivos com nomes em minúsculo e separados por underscores.
+
+> Exemplo: meu_arquivo.clj
+
 Agora vamos escrever um código simples e executá-lo:
 
 ```clj
