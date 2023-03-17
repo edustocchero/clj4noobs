@@ -14,3 +14,5 @@ linguagem portuguesa.
 [Conhecendo a linguagem](/conteudos/introducao/Conhecendo_a_linguagem.md)
 
 [Explorando o clojure.core](/conteudos/introducao/Explorando_o_clojure_core.md)
+
+[Executando arquivos](/conteudos/introducao/Executando_arquivos.md)
