@@ -16,3 +16,6 @@ linguagem portuguesa.
 [Explorando o clojure.core](/conteudos/introducao/Explorando_o_clojure_core.md)
 
 [Executando arquivos](/conteudos/introducao/Executando_arquivos.md)
+
+### Coleções
+[Trabalhado com coleções](/conteudos/colecoes/Trabalhando_com_colecoes.md)
