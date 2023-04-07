@@ -18,4 +18,4 @@ linguagem portuguesa.
 [Executando arquivos](/conteudos/introducao/Executando_arquivos.md)
 
 ### Coleções
-[Trabalhado com coleções](/conteudos/colecoes/Trabalhando_com_colecoes.md)
+[Trabalhando com coleções](/conteudos/colecoes/Trabalhando_com_colecoes.md)
