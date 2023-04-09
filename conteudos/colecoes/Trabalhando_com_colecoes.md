@@ -41,6 +41,8 @@ Também podemos providenciar um valor padrão caso o índice ou chave não exist
   (println elemento))
 ```
 
+> Veja mais exemplos com o `get` [clicando aqui](https://clojuredocs.org/clojure.core/get).
+
 ## `count`
 
 O `count`, como esperado, é uma função que irá retornar a quantidade de elementos presentes em uma coleção.
